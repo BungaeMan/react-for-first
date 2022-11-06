@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-for-first/static/js/main.e2419086.js",
-    "index.html": "/react-for-first/index.html",
-    "main.e2419086.js.map": "/react-for-first/static/js/main.e2419086.js.map"
+    "main.js": "/react-for-first/index.html/static/js/main.3e0738fb.js",
+    "index.html": "/react-for-first/index.html/index.html",
+    "main.3e0738fb.js.map": "/react-for-first/index.html/static/js/main.3e0738fb.js.map"
   },
   "entrypoints": [
-    "static/js/main.e2419086.js"
+    "static/js/main.3e0738fb.js"
   ]
 }
